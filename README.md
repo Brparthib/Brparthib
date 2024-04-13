@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/xGTD6NS/coder.jpg" alt="Your Image" width="300" />
+  <img src="https://i.ibb.co/h7zL3R3/coder2.jpg" alt="Your Image" width="500" />
 </p>
 
 <h1 align="center">Hi 🙋‍♂️, I'm a frontend and backend web developer</h1>
