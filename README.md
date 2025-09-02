@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dikpfvdae/image/upload/v1756835146/GitHub_Cover_jztgpz.png" alt="Developer Image" width="1000" />
+  <img src="https://res.cloudinary.com/dikpfvdae/image/upload/v1756837573/GitHub_Cover_mcvxk0.png" alt="Developer Image" width="1000" />
 </p>
 
 <h1 align="center">Hi 🙋‍♂️, I'm Parthib — Full Stack Developer</h1>
